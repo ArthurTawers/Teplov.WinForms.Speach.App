@@ -1,0 +1,6 @@
+C:\Users\Артур\Desktop\scripts\C#\System_Speech_Synthesis\WinForms_Speech_App\Teplov.WinForms.Speech.AppForm\Teplov.Develop.DonwloadForUrl.BL\bin\Release\Teplov.Develop.DonwloadForUrl.BL.dll
+C:\Users\Артур\Desktop\scripts\C#\System_Speech_Synthesis\WinForms_Speech_App\Teplov.WinForms.Speech.AppForm\Teplov.Develop.DonwloadForUrl.BL\bin\Release\Teplov.Develop.DonwloadForUrl.BL.pdb
+C:\Users\Артур\Desktop\scripts\C#\System_Speech_Synthesis\WinForms_Speech_App\Teplov.WinForms.Speech.AppForm\Teplov.Develop.DonwloadForUrl.BL\obj\Release\Teplov.WinForms.Speech.BL.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\scripts\C#\System_Speech_Synthesis\WinForms_Speech_App\Teplov.WinForms.Speech.AppForm\Teplov.Develop.DonwloadForUrl.BL\obj\Release\Teplov.WinForms.Speech.BL.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\scripts\C#\System_Speech_Synthesis\WinForms_Speech_App\Teplov.WinForms.Speech.AppForm\Teplov.Develop.DonwloadForUrl.BL\obj\Release\Teplov.Develop.DonwloadForUrl.BL.dll
+C:\Users\Артур\Desktop\scripts\C#\System_Speech_Synthesis\WinForms_Speech_App\Teplov.WinForms.Speech.AppForm\Teplov.Develop.DonwloadForUrl.BL\obj\Release\Teplov.Develop.DonwloadForUrl.BL.pdb
